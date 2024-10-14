@@ -1,0 +1,10 @@
+2023-08-31
+
+5x6 system
+/dfs8/rhayes1_lab/rhayes1/archives/2022_rhaye_gollum_home/41_MSLD/43_ManySubstituents/4_Publication/1_n14benz/1_nobias_linearALF/practice_setup/5x6/test
+
+24x24 system - using this as a starting point for this setup
+/dfs8/rhayes1_lab/rhayes1/archives/2022_rhaye_gollum_home/41_MSLD/43_ManySubstituents/4_Publication/1_n14benz/1_nobias_linearALF/practice_setup/test/prep
+
+24x24 system working on cats...
+/dfs8/rhayes1_lab/rhayes1/archives/2022_rhaye_gollum_home/41_MSLD/43_ManySubstituents/4_Publication/1_n14benz/1_nobias_linearALF/practice_setup/test2/prep
